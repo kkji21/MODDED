@@ -1,0 +1,7 @@
+body {
+    background-image: url("https://source.unsplash.com/1600x900/?apps,haking");
+    background-repeat: repeat;
+    background-position:cover ;
+   
+    border: 2px ;
+}
